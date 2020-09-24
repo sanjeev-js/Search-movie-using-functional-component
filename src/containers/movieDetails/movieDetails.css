@@ -1,0 +1,12 @@
+.rightcolumn {
+    width: 65%;
+    float: left;
+    margin-top: 65px;
+}
+
+.Card{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
